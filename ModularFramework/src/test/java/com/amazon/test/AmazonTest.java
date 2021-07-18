@@ -38,7 +38,7 @@ public class AmazonTest {
 	@Test 
 	//Run  | Debug
 	public void searchProduct() throws Exception{
-		String product = "Apple Watch";
+		String product = "Apple Mac Air";
 		String category = "Electronics";
 		
 		homepage.searchProduct(product, category);
